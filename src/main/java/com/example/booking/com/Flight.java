@@ -6,6 +6,6 @@ public class Flight {
     @GetMapping("/Flight")
     public String getData()
     {
-        return ("Hi Akash");
+        return ("Hi Rahul");
     }
 }
